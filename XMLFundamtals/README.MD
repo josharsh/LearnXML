@@ -11,4 +11,4 @@ XML document comprises of
   <child1>Child1</child1>
   <child2>Child2</child2>
  </root>
-~~
+~~~
