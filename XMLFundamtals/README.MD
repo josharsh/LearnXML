@@ -35,12 +35,16 @@ An introductory part of xml document describing the XML document is called the X
     <rno>R1002170</rno>
     <branch>CS</branch>
     <school>SOCS</branch>
+    <dept>Cybernatics</dept>
+    <cgpa>8.84</cgpa>
    </Student>
   <Student>
     <name>ABC</name>
     <rno>R10145050</rno>
     <branch>CS</branch>
     <school>SOCS</branch>
+    <dept>Cybernatics</dept>
+    <cgpa>8</cgpa>
    </Student>
 </Record>
 ~~~
