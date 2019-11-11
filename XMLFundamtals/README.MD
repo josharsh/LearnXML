@@ -25,3 +25,22 @@ An introductory part of xml document describing the XML document is called the X
 * XML Attribute value must be quoted.
 * White-space is not preserved in XML
 
+
+## XML Example:
+~~~xml
+<xml version = "1.0" encoding="UTF-8" standalone="no">
+ <Record>
+  <Student>
+    <name>Harsh Joshi</name>
+    <rno>R1002170</rno>
+    <branch>CS</branch>
+    <school>SOCS</branch>
+   </Student>
+  <Student>
+    <name>ABC</name>
+    <rno>R10145050</rno>
+    <branch>CS</branch>
+    <school>SOCS</branch>
+   </Student>
+</Record>
+~~~
